@@ -1,6 +1,6 @@
 ---
 layout: template.html
 title: m0suli
-tags: about
 ---
 hi. im m0suli.
+<h2><a href="./why"> why. </a></h2>
