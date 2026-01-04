@@ -1,5 +1,5 @@
 ---
-layout: template.html
+layout: layouts/base_layout.html
 title: zines.
 eleventyExcludeFromCollections: ["zine"]
 ---

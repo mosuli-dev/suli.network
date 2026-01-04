@@ -1,25 +1,7 @@
 ---
-layout: template.html
+layout: layouts/base_layout.html
 ---
-<h2>blog.</h2>
-<ul>
-    {% for post in collections.post %}
-        <li>
-            <h2><a href="{{ post.url }}"> {{ post.data.title }}</a></h2>
-            <p> {{ post.content }}</p>
-        </li>
-    {% endfor %}
-</ul>
-
-<h2>projects.</h2>
-<ul>
-    {% for work in collections.work %}
-        <li>
-            <h2><a href="{{ work.url }}"> {{ work.data.title }}</a></h2>
-            <p> {{ post.content }}</p>
-        </li>
-    {% endfor %}
-</ul>
-
-<h2><a href="/about"> about. </a></h2>
+<h2><a href="/blog"> blog.</a></h2>
+<h2><a href="/projects"> projects. </a></h2>
 <h2><a href="/zine"> zines. </a></h2>
+<h2><a href="/about"> about. </a></h2>

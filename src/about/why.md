@@ -1,5 +1,5 @@
 ---
-layout: template.html
+layout: layouts/base_layout.html
 title: why this site exists
 ---
 <a href = "/about">back.</a>
@@ -11,7 +11,7 @@ What am I trying to build over time?
 - I imagine this growing into a multi-platform network with various kinds of media published (like music, videos, animations, games, etc.) and a community of artists built around it. I also plan to make regularly scheduled video broadcasts, as well as zine newsletters to send out to subscribers.
 
 Who is this site really for?
-- Anyone and everyone interested in following the journey of an independent rapper-comic book artist-game developer, up close and personal!
+- Anyone and everyone interested in following the journey of an independent rapper-comic book artist-game developer, up close and personal! Specifically, it is for fellow creatives who want to break away from superficial algorithms, distractions, and noise, while also curious to see the reality of being a modern artist.
 
 What do I want this to feel like in 5 years?
 - In 5 years, I would hope that this is more than just a webpage, but a living community. I want to meet people in real life, who I have connected with through my site. I want to collaborate with and reach other artists around the world who are also on their own personal and creative missions. Ultimately, I want to establish this as the foundation of my independent multi-media SULI creative brand.

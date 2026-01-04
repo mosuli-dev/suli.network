@@ -1,4 +1,4 @@
 {
-    "layout": "template.html",
+    "layout": "layouts/base_layout.html",
     "tags": "zine"
 }
