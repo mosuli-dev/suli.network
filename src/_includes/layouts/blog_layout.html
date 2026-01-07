@@ -7,12 +7,10 @@ layout: layouts/base_layout.html
 
   <p>
     <time datetime="{{ page.date }}">
-      {{ page.date }}
+      {{ page.date | date: "%m-%d-%y" }}
     </time>
   </p>
-
-  {{ content }}
-
+  
   {% if tags %}
     <p>Tags:
       {% for tag in tags %}
@@ -20,6 +18,9 @@ layout: layouts/base_layout.html
       {% endfor %}
     </p>
   {% endif %}
+  
+  {{ content }}
 
-  <p><a href="/blog/">← Back to blog</a></p>
+
+  <p><a href="/blog/">← back</a></p>
 </article>

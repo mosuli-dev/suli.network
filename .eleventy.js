@@ -7,10 +7,17 @@ module.exports = function (eleventyConfig) {
   /* =========================
      Blog collection (sorted by date)
      ========================= */
-  eleventyConfig.addCollection("blog", function (collectionApi) {
+  eleventyConfig.addCollection("post", function (collectionApi) {
     return collectionApi
-      .getFilteredByGlob("src/blog/*.md")
+      .getFilteredByGlob("src/blog/posts/*.md")
       .sort((a, b) => b.date - a.date);
+  });
+
+  /* =========================
+     Tags filter
+     ========================= */
+  eleventyConfig.addFilter("filterTags", function (tags) {
+    return (tags || []).filter(tag => !["all", "collections"].includes(tag));
   });
 
   /* =========================
