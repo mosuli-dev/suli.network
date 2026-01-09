@@ -21,6 +21,17 @@ module.exports = function (eleventyConfig) {
   });
 
   /* =========================
+     Image shortcode
+     ========================= */
+  eleventyConfig.addShortcode("image", function (src, alt = "", className = "") {
+    return `
+      <figure class="content-image">
+        <img src="/assets/${src}" alt="${alt}" loading="lazy" />
+      </figure>
+    `;
+  });
+
+  /* =========================
      Return Eleventy config
      ========================= */
   return {
