@@ -1,9 +1,9 @@
 ---
 layout: layouts/base_layout.html
-title: projects
+title: Projects
 eleventyExcludeFromCollections: ["work"]
 ---
-<h2>projects.</h2>
+<h2>Projects</h2>
 <ul>
     {% for work in collections.work %}
         <li>

@@ -5,22 +5,24 @@ layout: layouts/base_layout.html
 <article>
   <h1>{{ title }}</h1>
 
-  <p>
+  <h3>
     <time datetime="{{ page.date }}">
-      {{ page.date | date: "%m-%d-%y" }}
+      {{ page.date | date: "%b %d, %Y" }}
     </time>
-  </p>
-  
-  {% if tags %}
-    <p>Tags:
-      {% for tag in tags %}
-        <a href="/tags/{{ tag }}/">{{ tag }}</a>
-      {% endfor %}
-    </p>
-  {% endif %}
+  </h3>
   
   {{ content }}
-
-
+  
+  {% if tags %}
+  <i>
+    <small>
+      Tags:
+      {% for tag in tags %}
+      <a href="/tags/{{ tag }}/">{{ tag }}</a>
+      {% endfor %}
+    </small>
+  </i>
+  {% endif %}
+  
   <p><a href="/blog/">← back</a></p>
 </article>

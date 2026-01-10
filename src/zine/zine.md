@@ -3,6 +3,7 @@ layout: layouts/base_layout.html
 title: zines.
 eleventyExcludeFromCollections: ["zine"]
 ---
+<h2>Zine</h2>
 <ul>
 {%- for zine in collections.zine -%}
   <li>
