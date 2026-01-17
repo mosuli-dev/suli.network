@@ -9,7 +9,7 @@ module.exports = function (eleventyConfig) {
      ========================= */
   eleventyConfig.addCollection("post", function (collectionApi) {
     return collectionApi
-      .getFilteredByGlob("src/blog/posts/*.md")
+      .getFilteredByGlob("src/blog/posts/**/*.md")
       .sort((a, b) => b.date - a.date);
   });
 
