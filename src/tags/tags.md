@@ -3,7 +3,7 @@ title: Tags
 layout: layouts/tags_layout.html
 ---
 
-<h1>Tags</h1>
+<h1>Tags.</h1>
 
 <ul>
 {% assign tagSet = "" | split: "," %}
