@@ -1,6 +1,6 @@
 ---
-layout: layouts/base_layout.html
 title: Projects
+layout: layouts/base_layout.html
 eleventyExcludeFromCollections: ["work"]
 ---
 <h2>Projects</h2>

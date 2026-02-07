@@ -4,15 +4,12 @@ layout: layouts/base_layout.html
 
 <article>
   <h1>{{ title }}</h1>
-
+  
   <h3>
     <time datetime="{{ page.date }}">
       {{ page.date | date: "%b %d, %Y" }}
     </time>
   </h3>
-  
-  {{ content }}
-  
   {% if tags %}
   <i>
     <small>
@@ -23,6 +20,9 @@ layout: layouts/base_layout.html
     </small>
   </i>
   {% endif %}
+  
+  {{ content }}
+  
   
   <p><a href="/blog/">← back</a></p>
 </article>

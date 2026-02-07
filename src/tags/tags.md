@@ -1,6 +1,6 @@
 ---
 title: Tags
-layout: layouts/tags_layout.html
+layout: layouts/base_layout.html
 ---
 
 <h1>Tags.</h1>
