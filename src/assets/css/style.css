@@ -9,6 +9,15 @@ img, video {
   border-radius: 8px;
 }
 
+.content-image img {
+  image-rendering: pixelated;
+}
+
+img.pixel {
+  image-rendering: pixelated;
+}
+
+
 body {
   margin: 0;
   padding: 2rem;
