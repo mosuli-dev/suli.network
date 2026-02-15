@@ -24,15 +24,18 @@ module.exports = function (eleventyConfig) {
      Image shortcode
      ========================= */
   eleventyConfig.addShortcode("image", function (src, alt = "", className="", width = "", height = "") {
-    return `
-      <figure class="content-image">
-        <img src="/assets${src}" alt="${alt}"
-        class="${className}"
-        ${width ? `width="${width}"` : ""} 
-        ${height ? `height="${height}"` : ""}
-        loading="lazy" />
-      </figure>
-    `;
+
+    let attributes = [
+      `src="/assets${src}"`,
+      `alt="${alt}"`,
+      `loading="lazy"`
+    ];
+
+    if (className) attributes.push(`class="${className}"`);
+    if (width) attributes.push(`width="${width}"`);
+    if (height) attributes.push(`height="${height}"`);
+
+    return `<figure class="content-image"><img ${attributes.join(" ")} /></figure>`;
   });
 
   /* =========================
