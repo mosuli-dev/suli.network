@@ -1,7 +1,7 @@
 ---
 title: "accepting my ineffectiveness"
 tags: ["life", "depression", "vewn", "blog"]
-date: 2026-03-07T04:22:10.919Z
+date: 2026-03-06T12
 ---
 well, another week has just flew by. I am starting to accept how I have absolutely no effect on this world and I'm just permanently stuck in this spectator mode of living.
 
