@@ -40,6 +40,28 @@ nav a:hover {
   text-decoration: underline;
 }
 
+.logo {
+  height: 30px;
+  width: auto;
+}
+
+.nav-bar {
+  position: relative;
+  width: 100%;
+  height: 40px;
+  background: #ffffffFF;
+  border: 1.5px solid #000000FF;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: space-between;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-self: start;
+}
+
 /* Content width */
 main {
   max-width: 700px;
