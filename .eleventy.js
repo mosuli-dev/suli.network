@@ -35,7 +35,7 @@ module.exports = function (eleventyConfig) {
     if (width) attributes.push(`width="${width}"`);
     if (height) attributes.push(`height="${height}"`);
 
-    return `<figure class="content-image"><img ${attributes.join(" ")} /></figure>`;
+    return `<figure class="content-image"><img ${attributes.join(" ")} /><figcaption class="subtext">${alt}</figcaption></figure>`;
   });
 
   /* =========================

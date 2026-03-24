@@ -2,17 +2,16 @@
 layout: layouts/base_layout.html
 ---
 
-<article>
+<article id="blog-post">
   <h1>{{ title }}</h1>
-  
-  <h3>
+  <h2>
     <time datetime="{{ page.date }}">
       {{ page.date | date: "%b %d, %Y" }}
     </time>
-  </h3>
+  </h2>
   {% if tags %}
   <i>
-    <small>
+    <small class="subtext">
       Tags:
       {% for tag in tags %}
       <a href="/tags/{{ tag }}/">{{ tag }}</a>

@@ -7,7 +7,6 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
-  border-radius: 8px;
 }
 
 img.pixel {
@@ -15,41 +14,117 @@ img.pixel {
 }
 
 .content-image img {
-  width: 100%;
+  width: 50%;
   height: auto;
+  border-radius: 8px;
+}
+
+.content-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
 }
 
 
 body {
   margin: 0;
-  padding: 2rem;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  line-height: 1.6;
+  font-family: "Inconsolata", monospace;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 0px;
   background: #fff;
   color: #111;
 }
 
-/* Navigation */
-nav a {
-  margin-right: 1rem;
-  text-decoration: none;
-  color: inherit;
+h1{
+  font-family: "Jersey 10";
+  font-size: 48px;
+  font-weight: 400;
+  margin: auto;
 }
 
-nav a:hover {
-  text-decoration: underline;
+h2 {
+  font-family: "DotGothic16";
+  font-size: 24px;
+  font-weight: 400;
 }
 
-.logo {
-  height: 30px;
+.system-text {
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.subtext {
+  font-family: "Tiny5";
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+#blog-post{
+  margin: 5% 20%;
+}
+
+#desktop-area {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  padding: 0px 25px;
+}
+
+#desktop-icon-grid {
   width: auto;
+  height: auto;
+  display: grid;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  grid: 1fr 1fr 1fr 1fr / 1fr 1fr; 
+  align-items: start;
+  align-content: start;
+  justify-items: start;
+  justify-content: start;
+  gap: 5px;
 }
 
-.nav-bar {
-  position: relative;
+.desktop-icon {
+  width: 110px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  color:black;
+}
+
+.desktop-icon-img {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  align-self: center;
+}
+
+
+
+/* Navigation */
+nav {
   width: 100%;
   height: 40px;
-  background: #ffffffFF;
+  background-color: white;
   border: 1.5px solid #000000FF;
   display: flex;
   align-items: center;
@@ -62,10 +137,79 @@ nav a:hover {
   align-self: start;
 }
 
+.tabs {
+  width: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 10px;
+  align-self: center;
+}
+
+.tab {
+  width: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 5px;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  flex-shrink: 0;
+  min-inline-size: 200px;
+  border-right: #111 solid 1px;
+  border-radius 2px;
+  flex: 1;
+}
+
+#home-tab {
+  min-inline-size: 0;
+  column-gap: 0px;
+}
+
+#suli-logo-nav {
+  width: 40px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  border-radius: 0;
+}
+
+#user-tab {
+  width: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  align-self: center;
+  border-left: #111 solid 1px;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
 /* Content width */
 main {
-  max-width: 700px;
-  margin: 0 auto;
+  width: 100%;
 }
 
 /* Blog list */
