@@ -3,6 +3,11 @@
   box-sizing: border-box;
 }
 
+html {
+  min-height: 100%;
+  background: transparent; /* keep root transparent when using body::before */
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -35,8 +40,28 @@ body {
   font-weight: 300;
   line-height: 1.2;
   letter-spacing: 0px;
-  background: #fff;
+  background: transparent;
   color: #111;
+  overflow: auto;
+  position: relative;
+  z-index: 0;
+}
+
+
+/* full-viewport grid on the body pseudo-element */
+body::before {
+  content: "";
+  position: fixed;        /* cover the viewport and stay put while scrolling */
+  inset: 0;               /* top:0; right:0; bottom:0; left:0; */
+  z-index: -1;            /* place behind body content */
+  pointer-events: none;   /* don't block clicks/interactions */
+  background-color: #fff;
+  background-image:
+    linear-gradient(to right, lightgray .5px, transparent 1px),
+    linear-gradient(to bottom, lightgray .5px, transparent 1px);
+  background-size: 40px 40px;
+  background-repeat: repeat;
+  /* no background-attachment needed because the pseudo-element itself is fixed */
 }
 
 h1{
@@ -64,18 +89,18 @@ h2 {
 }
 
 #blog-post{
-  margin: 5% 20%;
+  margin: 40px 240px;
 }
 
 #desktop-area {
   width: 100%;
-  height: 100vh;
+  height: 100%;
   display: flex;
   flex-direction: row;
   flex: 1;
   flex-wrap: wrap;
   align-items: center;
-  align-content: stretch;
+  align-content: center;
   justify-content: start;
   padding: 0px 25px;
 }
@@ -165,7 +190,7 @@ nav {
   flex-shrink: 0;
   min-inline-size: 200px;
   border-right: #111 solid 1px;
-  border-radius 2px;
+  border-top-right-radius: 8px;
   flex: 1;
 }
 
