@@ -98,6 +98,7 @@ h2 {
 }
 
 #desktop-area {
+  position: relative;
   width: 100%;
   height: 100%;
   display: flex;
@@ -107,7 +108,10 @@ h2 {
   align-items: center;
   align-content: center;
   justify-content: start;
-  padding: 0px 25px;
+  padding-inline: 25px 0px;
+  column-gap: 100px;
+  align-self: center;
+  flex-shrink: 0;
 }
 
 #desktop-icon-grid {
@@ -190,8 +194,7 @@ nav {
   align-content: stretch;
   justify-content: start;
   column-gap: 5px;
-  padding-inline-start: 10px;
-  padding-inline-end: 10px;
+  padding-inline: 10px 20px;
   flex-shrink: 0;
   min-inline-size: 200px;
   border-right: #111 solid 1px;

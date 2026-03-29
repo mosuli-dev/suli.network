@@ -1,6 +1,6 @@
 ---
-title: "Mixed Feëlings"
-tags: ["yeat", "album", "ADL", "review"]
+title: "ADL: Mixed Feëlings"
+tags: ["yeat", "new album", "ADL", "review"]
 date: 2026-03-27T12
 ---
 The new Yeat album dropped and I've got mixed feelings about it. I was extremely hyped for this project. The marketing and rollout was truly next level. But unfortunately, I just was not feeling it. Maybe it'll grow on me. (I felt the same about A Dangerous Summer, but it still isn't clicking for me.) My initial thoughts were that it was a good evolution but it feels more like a departure from his core sound. The intention and direction was great and I appreciate him using his connections/resources to really elevate his vision. The interview, the style, the La Familia, the mafia imagery, the marketing, everything leading up to the project was awesome. However, as a long time Yeat fan, I was disappointed. This feels too influenced by the friends in high places that he's made. Too influenced by the taste of mainstream success he saw through 2025 with The Bell, Come N Go, etc. Maybe it'll grow on me. I really want to like this project, but it's just not grabbing me like LYFESTYLE or anything before that. It sounds like he's tryna appeal to the mainstream audience with all these dance-pop tracks. ADLove just wasn't it for me. ADLife had like 3-4 good tracks. And I'm so sad it's called A Dangerous LIFE and not LYFE, that realization hurt fr. Well, you know. From another perspective, this does fit the more classical mafia theme, with the more orchestral instrumentation and acoustic intro's/outro's. Very bold step for our goat, just not sure it was the right one.
