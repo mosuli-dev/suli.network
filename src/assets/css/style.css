@@ -107,9 +107,8 @@ h2 {
   flex-wrap: wrap;
   align-items: center;
   align-content: center;
-  justify-content: start;
-  padding-inline: 25px 0px;
-  column-gap: 100px;
+  justify-content: space-between;
+  padding-inline: 25px 40px;
   align-self: center;
   flex-shrink: 0;
 }
