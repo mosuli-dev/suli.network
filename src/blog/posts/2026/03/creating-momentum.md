@@ -11,7 +11,7 @@ Narrowing my focus mainly on one project has really helped me make progress and 
 
 Honestly, this is what was missing. Knowing that I've made time to design and not try to fit in like 90 tasks of random and distracting habits has reduced a lot of the despair, heaviness, and disappointment I would feel week after week.
 
-I tried making time for music as well. I worked on some drumless style loops inspired by <a href="https://www.youtube.com/watch?v=pYhvOsRHbxM"> Earl Sweatshirt and MIKE.</a> Even though I didn't put in much time into working on the song, I at least got a beat done and a verse started. Music wasn't really a main priority for me this week, and having that understanding made it seem a lot less daunting. I know I could make as much time as I want to for music when I get this website done, so that's where my effort went.
+I tried making time for music as well. I worked on some drumless style loops inspired by <a href="https://www.youtube.com/watch?v=pYhvOsRHbxM" target="_blank"> Earl Sweatshirt and MIKE.</a> Even though I didn't put in much time into working on the song, I at least got a beat done and a verse started. Music wasn't really a main priority for me this week, and having that understanding made it seem a lot less daunting. I know I could make as much time as I want to for music when I get this website done, so that's where my effort went.
 
 It seems so simple and obvious, yet the revelation has been so profound. JUST DO WHAT U WANNA DO!!!! (within reason...) 
 

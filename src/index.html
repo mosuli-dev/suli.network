@@ -6,8 +6,8 @@ title: SULI.network
     <div id="desktop-icon-grid">
         <a href="/blog">
         <div class="desktop-icon">
-            <div class="desktop-icon-img"> 
-                <img src="/assets/rubber-duck-icon-still.png" 
+            <div class="desktop-icon-img">
+                <img src="/assets/rubber-duck-icon-still.png"
                 onmouseover="this.src='/assets/rubber-duck-icon.gif'"
                 onmouseout="this.src='/assets/rubber-duck-icon-still.png'" ></i>
             </div>
@@ -17,7 +17,7 @@ title: SULI.network
 
         <a href="/projects">
         <div class="desktop-icon">
-            <div class="desktop-icon-img"> 
+            <div class="desktop-icon-img">
                 <img src="/assets/rubber-duck-icon-still.png"
                 onmouseover="this.src='/assets/rubber-duck-icon.gif'"
                 onmouseout="this.src='/assets/rubber-duck-icon-still.png'"></i>
@@ -28,7 +28,7 @@ title: SULI.network
 
         <a href="/about">
         <div class="desktop-icon">
-            <div class="desktop-icon-img"> 
+            <div class="desktop-icon-img">
                 <img src="/assets/rubber-duck-icon-still.png"
                 onmouseover="this.src='/assets/rubber-duck-icon.gif'"
                 onmouseout="this.src='/assets/rubber-duck-icon-still.png'"></i>
@@ -39,7 +39,15 @@ title: SULI.network
 
     </div>
 
+    {% assign latestPost = collections.post | first %}
+
+    {% capture latestBlogContent %}
+      <h2>{{ latestPost.data.title }}</h2>
+      <p>{{ latestPost.templateContent | truncate: 400 }}</p>
+    {% endcapture %}
+
+
     {% include "window.liquid" %}
-    {% include "window.liquid" %}
+    {% include "window.liquid", title: "Latest Blog", content: latestBlogContent %}
 
 </div>

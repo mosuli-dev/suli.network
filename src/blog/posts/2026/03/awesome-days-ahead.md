@@ -9,5 +9,5 @@ Just wanna check in and say things are looking like they're finally turning arou
 
 This Friday, we're getting a new Yeat album AND new Ye, which I am so hyped for. Tomorrow, I've got a job interview at this assembly place, so I'll finally be making money soon. I'm also putting the finishing touches on my 5th song for STUPID BULLSHIT and it's coming together pretty well. I'm just so optimistic right now and excited to keep building on this momentum.
 
-<a href="https://youtu.be/sphf3kRUrKI">This new Yeat interview is so legendary</a>
+<a href="https://youtu.be/sphf3kRUrKI" target="_blank">This new Yeat interview is so legendary</a>
 
