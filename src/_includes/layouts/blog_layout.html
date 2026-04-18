@@ -14,7 +14,9 @@ layout: layouts/base_layout.html
     <small class="subtext">
       Tags:
       {% for tag in tags %}
-      <a href="/tags/{{ tag }}/">{{ tag }}</a>
+        {% if tag != "post" %}
+          <a href="/tags/{{ tag }}/">{{ tag }}</a>
+        {% endif %}
       {% endfor %}
     </small>
   </i>

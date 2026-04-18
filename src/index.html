@@ -42,12 +42,13 @@ title: SULI.network
     {% assign latestPost = collections.post | first %}
 
     {% capture latestBlogContent %}
-      <h2>{{ latestPost.data.title }}</h2>
-      <p>{{ latestPost.templateContent | truncate: 400 }}</p>
+      <h1 style="font-size: 24px;">{{ latestPost.data.title }}</h1>
+      <p>{{ latestPost.templateContent }}</p>
+      <a href="/blog"> More Blogs. </a>
     {% endcapture %}
 
 
-    {% include "window.liquid" %}
-    {% include "window.liquid", title: "Latest Blog", content: latestBlogContent %}
+    {% include "components/window.liquid" %}
+    {% include "components/window.liquid", window-title: "Latest Blog", content: latestBlogContent %}
 
 </div>
