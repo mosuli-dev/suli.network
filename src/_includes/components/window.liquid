@@ -6,10 +6,9 @@
   min-width: 400px;
   max-width: 550px;
   min-height: 200px;
-  max-height: 300px;
-  overflow-y: scroll;
+  overflow-y: auto;
   position: relative;
-  ">
+  " class="window">
 
   <!-- Window Header -->
   <div style="
@@ -60,11 +59,7 @@
   </div>
 
   <!-- Window Content -->
-  <div style="
-    background: white;
-    padding: 12px;
-    font-size: 14px;
-    ">
+  <div class="window-content">
     {{ content | default: "This is the content area of the window. You can put anything here!" }}
   </div>
 

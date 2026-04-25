@@ -43,6 +43,11 @@ title: SULI.network
 
     {% capture latestBlogContent %}
       <h1 style="font-size: 24px;">{{ latestPost.data.title }}</h1>
+        <p class="subtext"> 
+        <time datetime="{{ latestPost.date }}">
+            {{ latestPost.date | date: "%b %d, %Y" }}
+        </time>
+        </p>
       <p>{{ latestPost.templateContent }}</p>
       <a href="/blog"> More Blogs. </a>
     {% endcapture %}

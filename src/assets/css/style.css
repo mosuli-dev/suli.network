@@ -255,3 +255,25 @@ ul {
 li {
   margin-bottom: 0.5rem;
 }
+
+/* CSS Window */
+.window-content {
+  background: white;
+  padding: 12px;
+  font-size: 14px;
+  overflow-y: auto;
+  max-height: 300px;
+}
+
+/* Scrollbar */
+.window-content::-webkit-scrollbar {
+  width: 20px;
+}
+
+.window-content::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+.window-content::-webkit-scrollbar-thumb {
+  background: #888;
+}

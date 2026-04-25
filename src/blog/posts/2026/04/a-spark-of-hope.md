@@ -1,7 +1,7 @@
 ---
 title: "A spark of hope"
 tags: ["optimism", "SULI DREAM", "album", "new job", "STUPID BULLSHIT", "hope", "blog"]
-date: 2026-04-18T02:39:14.932Z
+date: 2026-04-17T12
 ---
 I heard back from this new job and I finally got hired! It'll be long ass shifts and some pretty physically challenging work, but it'll pay decent so I can finally invest in my own life and vision. I've been so excited this week since hearing back and I'm gonna be starting on Monday. I'm kinda nervous to see how this new job is gonna affect my creative output and overall morale.
 
