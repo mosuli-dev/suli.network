@@ -1,0 +1,16 @@
+---
+title: "#NEW OPTIMISM"
+tags: ["optimism", "godot", "game development", "stupid bullshit", "pico", "newgrounds", "blog"]
+date: 2026-05-01T12
+---
+I've been in a pretty good headspace these past days. After waiting for so long, I'm finally gonna start my new job this Monday 😆😆!! These days I've been trying to get done with as much of 'STUPID BULLSHIT' as possible. I finalized another song, and started mixing on another. I still want to make a bonus track or two though, which I haven't yet started. I went back through some old FL files and found a couple of hidden gems that I began and wanna flesh out. I'm so ready to put this body of work behind me. It's been a rough past few months (10-ish but who's counting) and I've really gone through a lot of stupid bullshit fr. Finishing this project and just putting it out will be... relieving to say the least.
+
+I am so excited to get started on the next era of creative work. I have so much planned; from building out this site, developing games, new music (that I will actually enjoy making), and so much more. I'm just trying to keep things as stable as possible for now. As I wrap up 'SBS' and get started with my new job, I'm gonna have to get used to a new type of life routine. With that, it's gonna take some intentional effort towards maximizing my time and energy.
+
+This past weekend, I messed around on Godot for the first time in a while and built a small 2.5D scene. Right now, its still too early to say what this will become, but I have a vision for an 2.5D open world Earthbound style RPG with action combat and a 3rd person controller. Getting to build on Godot again feels great. It's been like a year or maybe more since I tried developing anything. Finishing this game to completion is a big goal for me as I've never actually finished and published a game before.
+
+{% image "/blog/game-dev-2.5d-demo.gif", "little demo I put together of a 2.5D character in a 3D world" %}
+
+Yesterday, I participated in Newgrounds' "Pico Day" celebration. Newgrounds has a special place in my heart and I look back with fondness of my memories on the website. Last week I saw that Pico Day was coming up and I wanted to do something special. Since I've been more actively using the site in these past months, I decided to create an artwork that represents my reestablished enthusiasm and appreciation for the site. Newgronunds put me on to a lot of early internet culture memes and shaped my views on what a single person could create on their own. I've been so happy to see the community still going strong and people still sharing their projects online, as well as the continued support from the moderators and team. I'm not sure if NG counts as 'Indie' or 'Small Web' but it definitely is one of the foundational places on the internet for artists/creators to connect. <a href="https://www.newgrounds.com/art/view/m0suli/m0-x-pico-brothers-in-arms-picoday-2026" target="_blank">Here's my piece with some references to NG classics. </a>
+
+Besides all that, life has been good. A new dawn is upon us. An era of optimism, light, and possibility :D
