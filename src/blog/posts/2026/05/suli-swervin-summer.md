@@ -1,7 +1,7 @@
 ---
 title: "suli swervin summer"
 tags: ["summer", "fun", "psp", "happy", "music", "suli"]
-date: 2026-05-39T12
+date: 2026-05-29T12
 ---
 i dont really have much time to do things these days. im barely getting to write this post cuz i have to sleep soon, i got OT work tomorrow so I'll make it quick.
 
