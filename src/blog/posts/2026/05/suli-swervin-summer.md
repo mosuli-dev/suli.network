@@ -9,4 +9,4 @@ ive been really happy these past few weeks. the money keeps coming in and im abl
 
 i just ordered a new PSP from ebay and im so excited to get it. ive been continuing to draw and make art on my iPad. I'm so happy that I can invest into my hobbies and passions.
 
-<a href="https://music.youtube.com/watch?v=TGcGxWTqZzI&si=jX7rbPZHdKqYLC8R"> swerve2aswerve</a>
+<a href="https://music.youtube.com/watch?v=TGcGxWTqZzI&si=jX7rbPZHdKqYLC8R" target="_blank"> swerve2aswerve</a>

@@ -15,4 +15,4 @@ on another note, ive continued to be drawing and tried doing a little digital ar
 
 {% image "/blog/sketches.PNG" %} {% image "/blog/m0suli advice.PNG" %}
 
-in other news: its the 10 year aniversary of my first mixtape <a href="https://audiomack.com/trillestmo/album/grit"> GRIT </a> 😮
+in other news: its the 10 year aniversary of my first mixtape <a href="https://audiomack.com/trillestmo/album/grit" target="_blank"> GRIT </a> 😮
