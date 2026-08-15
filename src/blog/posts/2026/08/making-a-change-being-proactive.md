@@ -1,0 +1,14 @@
+---
+title: "Making a Change; Being Proactive"
+tags: ["drawing, beta-test-project"]
+date: 2026-08-14T12
+---
+alright things haven't been the smoothest lately and im sorry it's been rough around the edges, but im done sitting and watching time go by. it's almost my birthday and im really pushing to get things sorted out by then. While work occupies a lot of my time and takes a lot of my energy, im trying to dedicate more time to recovery and effective routines. 
+
+Since starting my job, I've just been mostly drawing with the time I have outside of work. If I really want to improve in drawing, I will direct my effort towards a "beta-test-project" (basically a mini-side project that is relatively low stakes and allows me to freely experiment and practice while still having a consistent output). I may start a web-comic series, or a collection of pin up drawings. Eventually, I wanna do animations and stuff. Doing this will strengthen my story telling and ability to complete artworks more freqeuntly.
+
+i also wanna buckle down and spend at least one session a week on building up this website. Even if it's 30 min, I need to make some progress because it's been so stagnant. I haven't really felt compelled to make any music or write lyrics. i've decided  to take an intentional break. I would just be lying to myself if i tried to figure out how to squeeze out new songs at this point in my life. Things are too hectic, I'm a bit overwhlemed, and I just need to turn it down for a bit. I'm not happy about it, but it seems like the best thing for now.
+
+<a href="https://www.youtube.com/watch?v=9vdgd4F9CuI" target="_blank">this song is so fire!!!</a> it's been on repeat all week. same wit <a href="https://www.youtube.com/watch?v=0qZLiN5ONNU" target="_blank">Let Ya Know.</a> The music videos for both are so tough. I don't know why they just give me some kind of nostalgia. maybe for some mid late-2000s tumblr era aesthetics. i wanna get more into fashion and reinvent my style. im really pushing to get Stupid BS uploaded this weekend and released by my birthday next Friday. I'm also gonna be posting more often on <a href="https://www.newgrounds.com/art/view/m0suli/stylish-baddie" target="_blank">newgrounds.</a> It's still a pretty greart platform, <a href="https://m0suli.newgrounds.com/" target="_blank"> i'm really glad I've been on it again.</a>
+
+things could be a lot better, but they also could be a lot worse. i'm getting it into my head that progress will not look perfect and steady. there will be a lot of inconsistency, a lot of dissapointment, a lot of wasted time and frustration. but these are the surest signs that I am doing something that I care about and doing something good. improvement will come, as well as better days. until then, i have to keep trying and believing.
