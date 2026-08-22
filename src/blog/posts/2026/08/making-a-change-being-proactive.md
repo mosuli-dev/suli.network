@@ -1,6 +1,6 @@
 ---
 title: "Making a Change; Being Proactive"
-tags: ["drawing, beta-test-project"]
+tags: ["drawing, beta-test-project, break, hiatus"]
 date: 2026-08-14T12
 ---
 alright things haven't been the smoothest lately and im sorry it's been rough around the edges, but im done sitting and watching time go by. it's almost my birthday and im really pushing to get things sorted out by then. While work occupies a lot of my time and takes a lot of my energy, im trying to dedicate more time to recovery and effective routines. 
